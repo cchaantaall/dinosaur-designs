@@ -8,7 +8,7 @@
 
 This is the starter code for a step-by-step lesson. Each step is described in detail here:
 
-### [**Follow the Dinosaur designs step-by-step lesson ➔**](http://learn-the-web.algonquindesign.ca/courses/web-dev-1/dinosaur-designs/)
+### [**Follow the Dinosaur designs step-by-step lesson ➔**](https://learntheweb.courses/courses/web-dev-1/dinosaur-designs/)
 
 ---
 
